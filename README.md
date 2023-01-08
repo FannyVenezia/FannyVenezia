@@ -1,3 +1,4 @@
+<h2 align="center">Bonjour à tous</h2>
 <h3 align="center">Je suis Fanny Venezia</h3>
 <h4 align="center">Une Développeuse Web Fullstack junior</h4>
 
