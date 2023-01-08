@@ -7,7 +7,7 @@
 
   <p>Je souhaite développer mon champ de connaissances ! Alors en ce moment...
   
-  - 🌱 En ce moment, j'apprends **Python**
+  - 🌱 j'apprends **Python**
  
 <h2 align="center">Contactez moi!</h2>
 <p align="center">
