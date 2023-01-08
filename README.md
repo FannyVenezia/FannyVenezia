@@ -2,7 +2,7 @@
 <h3 align="center">Je suis Fanny Venezia</h3>
 <h4 align="center">Une Développeuse Web Fullstack junior</h4>
 
-<img src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif">
+<img src="https://static.wixstatic.com/media/6ec73d_5e355dfea2d54492bbbd66fd695f822d~mv2.gif">
 
 <h3 align="left">Langages de programmation</h3>
 <p align="left"><a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a></p>
