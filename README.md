@@ -1,5 +1,5 @@
 <h2 align="center">Bonjour à tous 👋</h2>
-<h3 align="center">Je suis Fanny Venezia</h3>
+<h3 align="center">🌸 Je suis Fanny Venezia 🌸</h3>
 <h4 align="center">Une Développeuse Web Fullstack junior</h4>
 
 <div align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"></div>
