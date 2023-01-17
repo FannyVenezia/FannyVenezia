@@ -19,7 +19,7 @@
 
   <p align="center">Je souhaite développer mon champ de connaissances ! Alors en ce moment...
   
-  <p align="center">🌱 j'apprends **Python**</p>
+  <p align="center">🌱 j'apprends <Python></p>
  
 <h2 align="center">Contactez moi!</h2>
 <p align="center">
